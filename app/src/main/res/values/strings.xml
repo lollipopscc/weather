@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">天气预报</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">天气预报</string>
+    <string name="nav_header_subtitle">1504412104</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_delete">删除城市</string>
+    <string name="action_close">关闭天气</string>
+
+    <string name="content_description_default">图片描述</string>
+    <string name="string_publish_time">"发布时间 "</string>
+
+    <string name="title_detail_module">详情</string>
+    <string name="title_forecast_module">预报</string>
+    <string name="title_aqi_module">污染指数</string>
+    <string name="title_index_module">生活指数</string>
+    <string name="separator">/</string>
+
+</resources>
